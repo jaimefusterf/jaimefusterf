@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Evolution, Blockchain and IPFS: An Autonomous Network Architecture PoC](https://github.com/FGAN-Digital-Twins/BC-AN#evolution-blockchain-and-ipfs-an-autonomous-network-architecture-poc)
 
-- 🌱 I’m currently learning **on privacy, cybersecurity, decentralization, AI/ML and Web3**
+- 🌱 I’m currently learning about **privacy, cybersecurity, decentralization, AI/ML and Web3**
 
 - 📫 How to reach me **jaimefusterf@gmail.com**
 
